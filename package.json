@@ -13,10 +13,10 @@
       "stop": "echo 'No stop functionality (use Ctrl+C to stop)'",
       "restart": "echo 'No restart functionality (use manual restart)'"
     },
-    "author": "Asmodeus Epzi",
+    "author": "RIKA-XMD-PAIR-SITE",
     "license": "ISC",
     "dependencies": {
-      "@whiskeysockets/baileys": "npm:asitha-new-v99",
+      "@whiskeysockets/baileys": "6.7.17",
       "qrcode": "^1.5.3",
       "awesome-phonenumber": "^2.64.0",
       "pino": "^8.1.0",
